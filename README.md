@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoshiAyush21
 - 👀 I’m interested in ML applications on Code Generation/Understanding
-- 🌱 I’m currently learning Java
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me https://www.linkedin.com/in/ayush-joshi-205368145/
 
