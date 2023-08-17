@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JoshiAyush21
 - 👀 I’m interested in ML applications on Code Generation/Understanding
 <!---- 💞️ I’m looking to collaborate on ...--->
+-  ✨ My AI/ML/NLP US patent  P/N 11113034 Smart programming assistant  https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11113034
 - 📫 How to reach me https://www.linkedin.com/in/ayush-joshi-205368145/
 
 <!---
