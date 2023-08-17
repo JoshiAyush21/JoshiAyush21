@@ -14,11 +14,13 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="Ayush-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ayush-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Ayush-React" height="30" width="40" s      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Ayush-React" height="30" width="40" s      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Ayush-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Ayush-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Ayush-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-       </div>
+        <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    
+</div>
 
  ##
 
