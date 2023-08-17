@@ -19,7 +19,20 @@ You can click the Preview link to take a look at your changes.
      <img align="center" alt="Ayush-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Ayush-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    
+        <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"> 
+        <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> 
+         <img align="center" alt="Ayush-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> 
+
+
+
+ 
 </div>
 
  ##
